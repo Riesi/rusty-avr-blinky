@@ -1,7 +1,7 @@
 avr-blinky
 ==========
 
-Blinky example for the Arduino Uno (atmega238p) that is not using the atmega-hal.
+Blinky example for the Arduino Uno (atmega328p) that is not using the atmega-hal.
 
 ## Build Instructions
 1. Install prerequisites as described in the [`avr-hal` README] (`avr-gcc`, `avr-libc`, `avrdude`, [`ravedude`]).
