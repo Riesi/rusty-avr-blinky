@@ -14,10 +14,10 @@ bench = false
 panic-halt = "0.2.0"
 ufmt = "0.2.0"
 nb = "1.1.0"
-embedded-hal = "1.0.0-alpha.10"
+embedded-hal = "1.0.0"
 
 [dependencies.avr-device]
-version = "0.5.1"
+version = "0.5.3"
 features = ["atmega328p", "rt"]
 
 [dependencies.atmega-hal]
